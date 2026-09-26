@@ -13,7 +13,7 @@
 ## Cấu trúc thư mục
 
 ```
-code_lvths/
+root/
 ├── configs/      # File cấu hình (YAML) cho các thí nghiệm huấn luyện/đánh giá
 ├── scripts/      # Script (.sh, .py) để chạy huấn luyện, sinh nhãn giả, đánh giá
 ├── notebooks/    # Notebook thực nghiệm, tiền xử lý, khám phá dữ liệu, minh họa cho luận văn
